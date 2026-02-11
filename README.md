@@ -1,3 +1,3 @@
-#selenium Java Framework
+#Selenium Java Framework
 
-##test
+##How to install
